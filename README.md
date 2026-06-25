@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Jitendra Goswami 
 
-<!--
-**jitendra-goswami/jitendra-goswami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Analyst | SQL | Power BI | Tableau | Excel | Python
 
-Here are some ideas to get you started:
+I am a Data Analytics enthusiast with a BCA degree from Jai Narain Vyas University (JNVU), Jodhpur.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- SQL
+- MySQL
+- Power BI
+- Tableau
+- Excel
+- Python
+- Data Cleaning
+- Data Visualization
+
+### Projects
+
+#### Kickstarter Crowdfunding Analysis
+- Data analysis using SQL, Excel, Tableau and Power BI.
+- Interactive dashboards and KPI reporting.
+- Funding trends and project success analysis.
+
+### Project Files
+Google Drive:
+https://drive.google.com/file/d/1thyj14B-86I57O3s_OxNncJah_aFKney/view?usp=sharing
+
+### Education
+Bachelor of Computer Applications (BCA)
+Jai Narain Vyas University (JNVU), Jodhpur
+2025
+
+### Connect With Me
+LinkedIn:
+www.linkedin.com/in/jitender-goswami-0338522b3
