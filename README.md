@@ -14,17 +14,22 @@ I am a Data Analytics enthusiast with a BCA degree from Jai Narain Vyas Universi
 - Data Cleaning
 - Data Visualization
 
-### Projects
+## Projects
 
-#### Kickstarter Crowdfunding Analysis
-- Data analysis using SQL, Excel, Tableau and Power BI.
+### Insurance Analytics Dashboard
+- Built interactive dashboards using Power BI.
+- Analyzed policy, customer, premium, and claims data.
+- Created KPI reports and business insights.
+
+### Kickstarter Crowdfunding Analysis
+- Data analysis using SQL, Excel, Tableau, and Power BI.
 - Interactive dashboards and KPI reporting.
 - Funding trends and project success analysis.
 
 ### Project Files
 Google Drive:
+https://drive.google.com/drive/folders/1Ww9As15xq1sb43OSHAevznIKVjwH_44i?usp=drive_link
 https://drive.google.com/file/d/1thyj14B-86I57O3s_OxNncJah_aFKney/view?usp=sharing
-
 ### Education
 Bachelor of Computer Applications (BCA)
 Jai Narain Vyas University (JNVU), Jodhpur
