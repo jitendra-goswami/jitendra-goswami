@@ -1,40 +1,24 @@
-# Hi, I'm Jitendra Goswami 
+# Hi, I'm Jitendra Goswami
 
-## Data Analyst | SQL | Power BI | Tableau | Excel | Python
+I completed my BCA in 2025 and I'm building my career in Data Analytics. I enjoy working with data, creating dashboards, and finding insights that help solve business problems.
 
-I am a Data Analytics enthusiast with a BCA degree from Jai Narain Vyas University (JNVU), Jodhpur.
-
-### Skills
+## Skills
+- Excel
 - SQL
-- MySQL
 - Power BI
 - Tableau
-- Excel
-- Python
-- Data Cleaning
-- Data Visualization
+- Python (Basic)
 
 ## Projects
 
 ### Insurance Analytics Dashboard
-- Built interactive dashboards using Power BI.
-- Analyzed policy, customer, premium, and claims data.
-- Created KPI reports and business insights.
+- Analyzed insurance policy and customer data.
+- Created dashboards using Power BI and Excel.
+- Built KPIs such as total policies, customers, claim status, and premium growth.
 
-### Kickstarter Crowdfunding Analysis
-- Data analysis using SQL, Excel, Tableau, and Power BI.
-- Interactive dashboards and KPI reporting.
-- Funding trends and project success analysis.
+### Kickstarter Campaign Analysis
+- Analyzed crowdfunding campaign data using Tableau.
+- Created visualizations for funding trends and project success rates.
 
-### Project Files
-Google Drive:
-https://drive.google.com/drive/folders/1Ww9As15xq1sb43OSHAevznIKVjwH_44i?usp=drive_link
-https://drive.google.com/file/d/1thyj14B-86I57O3s_OxNncJah_aFKney/view?usp=sharing
-### Education
-Bachelor of Computer Applications (BCA)
-Jai Narain Vyas University (JNVU), Jodhpur
-2025
-
-### Connect With Me
-LinkedIn:
-www.linkedin.com/in/jitender-goswami-0338522b3
+## Connect
+LinkedIn: linkedin.com/in/jitender-goswami-0338522b3
